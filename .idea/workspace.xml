@@ -69,8 +69,8 @@
       <file leaf-file-name="MyFirstProgram.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sendbox/src/main/java/ru/stqa/ptf/sandbox/MyFirstProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -565,12 +565,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522319292347</updated>
       <workItem from="1522319304031" duration="190000" />
-      <workItem from="1522322706573" duration="4075000" />
+      <workItem from="1522322706573" duration="4635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4265000" />
+    <option name="totallyTimeSpent" value="4825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -603,7 +603,7 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838285" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4984448" weight="0.29867986" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4984448" visible="true" weight="0.29867986" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49940476" weight="0.32838285" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24205749" />
       <window_info anchor="bottom" id="Find" order="2" />
@@ -652,8 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sendbox/src/main/java/ru/stqa/ptf/sandbox/MyFirstProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -674,7 +674,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
